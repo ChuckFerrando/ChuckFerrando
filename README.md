@@ -100,3 +100,26 @@ Strategy Execution
 Operating Model Design  
 Defense and Regulated Technology Environments  
 AI-Assisted Decision Systems
+
+---
+
+## Operating Model Evolution
+
+This repository is versioned to reflect the iterative development of the portfolio operating system.
+
+Key milestones:
+
+| Version | Capability Introduced |
+|-------|----------------------|
+| v0.1 | Operating model principles |
+| v0.2 | Capital allocation framework |
+| v0.3 | Portfolio scoring matrix |
+| v0.4 | Governance structure and repository scaffolding |
+| v0.5 | Quantitative prioritization model |
+| v0.6 | Risk scoring framework |
+| v0.7 | Operating cadence design |
+| v0.8 | Executive decision artifacts |
+| v0.9 | Governance traceability through decision logging |
+| v0.10 | Portfolio visualization and heatmap framework |
+
+The operating model is intended to evolve as governance practices mature and additional decision support capabilities are introduced.
