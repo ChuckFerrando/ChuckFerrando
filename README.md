@@ -4,6 +4,36 @@ Product and technology operating leader focused on portfolio governance, strateg
 
 ---
 
+## How to Navigate This Repository
+
+This repository documents a structured operating system for governing product and technology portfolios.
+
+If you are new to the repository, start with the following artifacts:
+
+1. **Operating Principles**  
+   `docs/operating-model-principles.md`  
+   Defines the design philosophy and governance principles behind the portfolio operating model.
+
+2. **Capital Allocation Model**  
+   `docs/capital-allocation-model.md`  
+   Describes how strategic initiatives are evaluated and funded.
+
+3. **Portfolio Scoring Framework**  
+   `docs/portfolio-scoring-matrix.md`  
+   Quantitative model used to prioritize initiatives across the portfolio.
+
+4. **Risk Scoring Model**  
+   `docs/risk-scoring-model.md`  
+   Structured evaluation of delivery, operational, and strategic risk.
+
+5. **Decision Artifacts**  
+   `templates/investment-memo-template.md`  
+   Example format for executive investment and portfolio decisions.
+
+The goal of the system is to translate strategy into executable initiatives with clear governance, transparent prioritization, and traceable decisions.
+
+---
+
 ## Portfolio Operating System
 
 A structured operating system for governing product and technology portfolios, integrating strategy decomposition, capital allocation, portfolio scoring, risk governance, and executive decision support.
