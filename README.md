@@ -39,22 +39,22 @@ Designing operating systems that improve:
 ## Repository Structure Example
 
 docs/
-- operating-model-principles.md
-- capital-allocation-model.md
-- portfolio-scoring-matrix.md
-- risk-scoring-model.md
-- portfolio-heatmap-framework.md
-- operating-cadence-design.md
-- decision-log.md
+operating-model-principles.md
+capital-allocation-model.md
+portfolio-scoring-matrix.md
+risk-scoring-model.md
+portfolio-heatmap-framework.md
+operating-cadence-design.md
+decision-log.md
 
 templates/
-- investment-memo-template.md
-- executive-decision-brief.md
-- quarterly-business-review-template.md
-- initiative-one-pager.md
+investment-memo-template.md
+executive-decision-brief.md
+quarterly-business-review-template.md
+initiative-one-pager.md
 
 diagrams/
-- portfolio-heatmap-example.png
+portfolio-heatmap-example.png
 
 ---
 
