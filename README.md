@@ -4,13 +4,25 @@ Product and technology operating leader focused on portfolio governance, strateg
 
 ---
 
-## Featured Work
+## Featured Architecture Project
 
 ### Product & Technology Portfolio Operating System
 
-A structured operating system for governing product and technology portfolios, integrating strategy decomposition, capital allocation, portfolio scoring, risk governance, and executive decision support.
+A governance operating system for managing product and technology portfolios, designed to translate enterprise strategy into prioritized initiatives with structured execution oversight.
 
-➡️ https://github.com/ChuckFerrando/enterprise-product-operating-model
+Key capabilities:
+
+- product portfolio governance
+- strategic investment allocation
+- portfolio prioritization and scoring
+- delivery risk evaluation
+- executive decision artifacts
+- portfolio visibility through heatmaps
+- AI-assisted decision modeling
+
+Repository:
+
+https://github.com/ChuckFerrando/enterprise-product-operating-model
 
 ---
 
