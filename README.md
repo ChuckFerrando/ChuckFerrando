@@ -1,35 +1,33 @@
 # Chuck Ferrando
 
-Product leadership architect designing operating systems for strategy execution, portfolio governance, product delivery, and AI-assisted decision intelligence.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Last Commit](https://img.shields.io/github/last-commit/ChuckFerrando/ChuckFerrando)
+
+Product leadership architect designing the operating systems used to run modern product organizations — from strategy execution through portfolio governance and product delivery, augmented by decision intelligence.
 
 ---
 
-## Product Leadership Systems Architecture (10-second view)
+## Product Leadership Systems Architecture (PLSA)
 
-This GitHub portfolio publishes executive-grade operating documentation—architecture artifacts, governance frameworks, and decision systems—used to run modern product organizations.
+This GitHub portfolio documents a set of integrated operating systems used to run a modern product organization.
+
+It is designed to read like internal operating documentation from a large technology organization — and be understandable to a recruiter or hiring manager within **10 seconds**.
+
+**Documentation portal (architecture index):**  
+https://chuckferrando.github.io/product-leadership-systems
+
+---
+
+## System Architecture Model
 
 ```mermaid
 flowchart TB
 
-subgraph Strategy
 A[Strategy Execution System]
-end
-
-subgraph Governance
 B[Portfolio Governance System]
-end
-
-subgraph Delivery
 C[Product Delivery System]
-end
-
-subgraph Outcomes
 D[Customer Outcomes]
-end
-
-subgraph Intelligence
 E[Decision Intelligence System]
-end
 
 A --> B
 B --> C
@@ -41,58 +39,81 @@ E --> C
 
 ---
 
-## Start Here
+## How to Read This
 
-The recommended entry point to this portfolio is the **Product Leadership Systems Architecture portal**.
+The Product Leadership Systems Architecture (PLSA) illustrates how modern product organizations connect strategy to execution through structured operating systems.
 
-This repository explains how the operating systems connect and provides navigation across the full architecture.
+The architecture flows from top to bottom:
 
-**Architecture Portal (Index Repository)**  
-https://github.com/ChuckFerrando/product-leadership-systems
+**Strategy Execution System**  
+Translates enterprise strategy into initiatives and funded investments.
 
-From there you can explore the four operating systems that run a modern product organization:
+**Portfolio Governance System**  
+Prioritizes initiatives, allocates capital, manages risk, and maintains portfolio visibility across the organization.
 
-| System | Purpose | Repository |
-|------|------|------|
-| Strategy Execution System | Translates enterprise strategy into initiatives and portfolio-ready investments | https://github.com/ChuckFerrando/strategy-execution-system |
-| Portfolio Governance System | Governs prioritization, capital allocation, delivery risk evaluation, and portfolio visibility | https://github.com/ChuckFerrando/portfolio-governance-system |
-| Product Delivery System | Operating model for executing funded initiatives with predictable delivery outcomes | https://github.com/ChuckFerrando/product-delivery-system |
-| Decision Intelligence System | AI-assisted analysis supporting portfolio governance and delivery decisions | https://github.com/ChuckFerrando/decision-intelligence-system |
+**Product Delivery System**  
+Defines how product teams execute funded initiatives through a structured product operating model.
+
+**Customer Outcomes**  
+The measurable results delivered to customers and the business.
+
+**Decision Intelligence System**  
+Provides AI-assisted analysis that supports governance and delivery decisions through scenario modeling, delivery risk detection, and executive insight.
+
+Together, these systems form the **Product Leadership Systems Architecture (PLSA)** — an integrated operating model for running modern product organizations.
 
 ---
 
-## Intended Audience
+## System Repositories (Operating Systems)
 
-This portfolio is designed for executive audiences evaluating product and technology leadership capability.
+The architecture is implemented through four system repositories.
 
-Typical readers include:
+| System | Purpose | Repository |
+|------|------|------|
+| **Strategy Execution System** | Framework translating enterprise strategy into initiatives and investment priorities. | https://github.com/ChuckFerrando/strategy-execution-system |
+| **Portfolio Governance System (FLAGSHIP)** | Operating system used to prioritize investments, allocate capital, evaluate delivery risk, and maintain portfolio visibility. | https://github.com/ChuckFerrando/portfolio-governance-system |
+| **Product Delivery System** | Operating model governing how product teams execute funded initiatives and deliver outcomes. | https://github.com/ChuckFerrando/product-delivery-system |
+| **Decision Intelligence System** | AI-assisted analysis supporting scenario modeling, delivery risk detection, and executive decision preparation. | https://github.com/ChuckFerrando/decision-intelligence-system |
 
-• Recruiters and executive search firms  
-• CTO and CPO leadership teams  
-• Hiring managers for product, platform, and engineering organizations  
-• Strategy and operations leaders within technology companies  
+The **Portfolio Governance System** is the flagship repository and contains the most detailed executive governance artifacts.
 
-The architecture artifacts are intended to demonstrate readiness for roles such as:
+---
 
-• VP Product Operations  
-• Chief of Staff to CPO / CTO  
-• VP Strategy & Execution  
-• Portfolio leadership roles in complex technology environments (Enterprise SaaS, FinTech, DefenseTech)
+## How to Use This Portfolio in Executive Conversations
+
+This portfolio is designed to demonstrate how a product leader architects the systems used to run complex product organizations.
+
+A recommended walkthrough:
+
+1. **Start with the architecture model** to understand how strategy connects to execution.
+2. **Explore the Portfolio Governance System** to see how investment decisions and portfolio prioritization are structured.
+3. **Review the Strategy Execution System** to understand how strategic initiatives are defined and aligned to outcomes.
+4. **Examine the Product Delivery System** to see how funded initiatives move through the product operating model.
+5. **Look at the Decision Intelligence System** to understand how AI-assisted analysis supports executive decision making.
+
+Together these systems illustrate how a product organization can improve:
+
+- delivery predictability  
+- portfolio visibility  
+- capital allocation discipline  
+- executive decision quality
+
+---
+
+## Focus Areas
+
+This portfolio highlights leadership capabilities in:
+
+- Product Operations Leadership
+- Portfolio Governance and Capital Allocation
+- Strategy-to-Execution Operating Systems
+- Product Operating Model Architecture
+- AI-Augmented Executive Decision Support
 
 ---
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
 
-Copyright (c) 2026 Chuck Ferrando
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this documentation and associated files to use, copy, modify, merge,
-publish, distribute, sublicense, and/or sell copies, subject to the
-following conditions:
-
-The above copyright notice and this permission notice shall be included
-in all copies or substantial portions of the documentation.
-
-THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+See the LICENSE file in each repository for details.
