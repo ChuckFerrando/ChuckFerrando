@@ -10,6 +10,9 @@ This GitHub portfolio documents several **operating systems used to run modern p
 
 Together these repositories form an integrated architecture connecting **enterprise strategy, portfolio governance, product execution, and AI-assisted decision support**.
 
+Architecture documentation site:
+https://chuckferrando.github.io/product-leadership-systems
+
 ---
 
 ## Product Leadership Systems Architecture
