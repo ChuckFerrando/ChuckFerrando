@@ -4,17 +4,6 @@ Product leadership architect designing operating systems for strategy execution,
 
 ---
 
-# Product Leadership Systems Architecture
-
-This GitHub portfolio documents several **operating systems used to run modern product organizations**.
-
-Together these repositories form an integrated architecture connecting **enterprise strategy, portfolio governance, product execution, and AI-assisted decision support**.
-
-Architecture documentation site:
-https://chuckferrando.github.io/product-leadership-systems
-
----
-
 ## Product Leadership Systems Architecture
 
 ```mermaid
@@ -52,96 +41,42 @@ This architecture illustrates how enterprise strategy flows through portfolio go
 
 ---
 
-## Explore the Systems
+Explore the Systems
 
 Each repository documents a core operating system used to run modern product organizations.
 
----
+Strategy Execution System
 
-### Strategy Execution System
-
-How enterprise strategy is translated into strategic initiatives and funded portfolio investments.
-
+How enterprise strategy is decomposed into themes, initiatives, and portfolio investments.
 → https://github.com/ChuckFerrando/strategy-execution-system
 
----
+Portfolio Governance System
 
-### Portfolio Governance System
-
-A governance operating system for prioritizing initiatives, allocating capital, and maintaining portfolio visibility.
-
+How initiatives are prioritized, funded, risk-scored, governed, and made visible across the portfolio.
 → https://github.com/ChuckFerrando/portfolio-governance-system
 
----
+Product Delivery System
 
-### Product Delivery System
-
-Defines how product organizations structure teams, manage roadmaps, and deliver software outcomes.
-
+How product organizations structure teams, manage roadmaps, govern delivery, and measure outcomes.
 → https://github.com/ChuckFerrando/product-delivery-system
 
----
+Decision Intelligence System
 
-### Decision Intelligence System
-
-Explores how AI can augment portfolio governance, delivery risk analysis, and executive decision support.
-
+How AI can augment portfolio governance, delivery risk analysis, and executive decision preparation.
 → https://github.com/ChuckFerrando/decision-intelligence-system
 
----
+Focus Areas
 
-# Architecture Components
+Product Operations Leadership
 
-## Strategy → Execution
+Portfolio Governance and Capital Allocation
 
-Defines how enterprise strategy is decomposed into initiatives and portfolio investments.
+Strategy Execution and Operating Model Design
 
-Repository:
+Product & Engineering Organizational Systems
 
-https://github.com/ChuckFerrando/strategy-to-execution-framework
+AI-Augmented Decision Support
 
----
 
-## Portfolio Governance
 
-Defines the governance operating system used to manage product and technology portfolios.
 
-Repository:
-
-https://github.com/ChuckFerrando/enterprise-product-operating-model
-
----
-
-## Product Operating System
-
-Defines how product teams execute funded initiatives and deliver product outcomes.
-
-Repository:
-
-https://github.com/ChuckFerrando/product-operating-system
-
----
-
-## AI-Assisted Product Operations
-
-Explores how AI can support portfolio governance, delivery risk analysis, and decision preparation.
-
-Repository:
-
-https://github.com/ChuckFerrando/ai-assisted-product-operations
-
----
-
-# Focus Areas
-
-- Product Operations Leadership  
-- Portfolio Governance and Capital Allocation  
-- Strategy Execution and Organizational Systems  
-- Product Operating Model Design  
-- AI-Augmented Decision Support
-
----
-
-# License
-
-MIT License
