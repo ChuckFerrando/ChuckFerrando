@@ -1,6 +1,6 @@
 # Chuck Ferrando
 
-Product and technology operating leader focused on portfolio governance, strategy execution, and operating model design across complex software organizations.
+Product leadership architect designing operating systems for strategy execution, portfolio governance, and product delivery.
 
 ---
 
