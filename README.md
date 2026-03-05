@@ -49,6 +49,44 @@ This architecture illustrates how enterprise strategy flows through portfolio go
 
 ---
 
+## Explore the Systems
+
+Each repository documents a core operating system used to run modern product organizations.
+
+---
+
+### Strategy Execution System
+
+How enterprise strategy is translated into strategic initiatives and funded portfolio investments.
+
+→ https://github.com/ChuckFerrando/strategy-execution-system
+
+---
+
+### Portfolio Governance System
+
+A governance operating system for prioritizing initiatives, allocating capital, and maintaining portfolio visibility.
+
+→ https://github.com/ChuckFerrando/portfolio-governance-system
+
+---
+
+### Product Delivery System
+
+Defines how product organizations structure teams, manage roadmaps, and deliver software outcomes.
+
+→ https://github.com/ChuckFerrando/product-delivery-system
+
+---
+
+### Decision Intelligence System
+
+Explores how AI can augment portfolio governance, delivery risk analysis, and executive decision support.
+
+→ https://github.com/ChuckFerrando/decision-intelligence-system
+
+---
+
 # Architecture Components
 
 ## Strategy → Execution
