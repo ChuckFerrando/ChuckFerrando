@@ -12,28 +12,38 @@ Together these repositories form an integrated architecture connecting **enterpr
 
 ---
 
-## Architecture Overview
+## Product Leadership Systems Architecture
 
 ```mermaid
-flowchart LR
+flowchart TB
 
-A[Enterprise Strategy]
+subgraph Strategy_Layer
+A[Strategy Execution System]
+end
 
-A --> B[Strategy to Execution Framework]
+subgraph Portfolio_Layer
+B[Portfolio Governance System]
+end
 
-B --> C[Enterprise Product Operating Model]
+subgraph Product_Layer
+C[Product Delivery System]
+end
 
-C --> D[Product Operating System]
+subgraph Outcome_Layer
+D[Customer Outcomes]
+end
 
-D --> E[Delivery Outcomes]
+subgraph Intelligence_Layer
+E[Decision Intelligence System]
+end
 
-C --> F[AI Assisted Product Operations]
+A --> B
+B --> C
+C --> D
 
-F --> C
+E --> B
+E --> C
 ```
-
-This architecture illustrates how enterprise strategy translates into portfolio investments, product execution, and AI-supported decision systems.
-
 ---
 
 # Architecture Components
