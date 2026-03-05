@@ -44,6 +44,9 @@ C --> D
 E --> B
 E --> C
 ```
+
+This architecture illustrates how enterprise strategy flows through portfolio governance and product execution systems to produce customer outcomes, supported by AI-assisted decision intelligence.
+
 ---
 
 # Architecture Components
