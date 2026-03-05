@@ -16,6 +16,12 @@ It is designed to read like internal operating documentation from a large techno
 **Documentation portal (architecture index):**  
 https://chuckferrando.github.io/product-leadership-systems
 
+### Architecture Portal
+
+The full architecture documentation portal can be accessed here:
+
+https://github.com/ChuckFerrando/product-leadership-systems
+
 ---
 
 ## System Architecture Model
