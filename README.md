@@ -49,6 +49,17 @@ This architecture illustrates how modern product organizations translate enterpr
 
 ---
 
+## System Responsibilities
+
+| System | Primary Responsibility |
+|---|---|
+| Strategy Execution System | Translate enterprise strategy into initiatives and investment demand |
+| Portfolio Governance System | Evaluate investments, allocate capital, and maintain portfolio visibility |
+| Product Delivery System | Govern execution of funded initiatives across product and engineering |
+| Decision Intelligence System | Provide metrics, scenario analysis, and AI-assisted decision support |
+
+---
+
 ## System Repositories
 
 ### Strategy Execution System
