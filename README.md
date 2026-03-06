@@ -45,6 +45,7 @@ C --> D
 E --> B
 E --> C
 ```
+This architecture illustrates how modern product organizations translate enterprise strategy into governed delivery through structured operating systems.
 
 ---
 
