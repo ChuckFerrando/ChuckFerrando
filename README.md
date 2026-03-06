@@ -53,10 +53,58 @@ This architecture illustrates how modern product organizations translate enterpr
 
 | System | Primary Responsibility |
 |---|---|
-| Strategy Execution System | Translate enterprise strategy into initiatives and investment demand |
-| Portfolio Governance System | Evaluate investments, allocate capital, and maintain portfolio visibility |
-| Product Delivery System | Govern execution of funded initiatives across product and engineering |
-| Decision Intelligence System | Provide metrics, scenario analysis, and AI-assisted decision support |
+| **Strategy Execution System** | Translate enterprise strategy into strategic initiatives, investment themes, and portfolio demand |
+| **Portfolio Governance System** | Evaluate investments, allocate capital, assess execution risk, and maintain portfolio visibility |
+| **Product Delivery System** | Govern execution of funded initiatives across product, engineering, and platform teams |
+| **Decision Intelligence System** | Provide metrics, scenario analysis, portfolio visibility, and AI-assisted decision support |
+| **Customer Outcomes** | Capture adoption, value realization, and business impact generated through delivery execution |
+
+--- 
+
+## Design Principles
+
+The Product Leadership Systems Architecture is designed around a small set of operating principles that improve clarity, governance quality, and execution predictability.
+
+- **Strategy alignment first**  
+  Investments should be evaluated against explicit strategic priorities rather than local optimization or team-level preference.
+
+- **Transparent investment decisions**  
+  Portfolio decisions should be made through visible, structured criteria supported by documented rationale.
+
+- **Governed execution**  
+  Funded initiatives should move into delivery with clear accountability, risk visibility, and oversight mechanisms.
+
+- **Portfolio visibility at all times**  
+  Leadership should be able to assess investment distribution, delivery health, and execution risk across the portfolio.
+
+- **Decision intelligence as a support layer**  
+  Metrics, scenario modeling, and AI-assisted analysis should strengthen governance and delivery decisions without replacing leadership judgment.
+
+- **Continuous feedback and adaptation**  
+  Delivery performance and customer outcomes should inform future strategy, prioritization, and capital allocation decisions.
+
+---
+
+## Feedback Loops and Decision Support
+
+The architecture is not purely linear. It operates as a continuous system in which delivery performance, portfolio insights, and customer outcomes feed back into future strategic and governance decisions.
+
+```mermaid
+flowchart TB
+
+A[Strategy Execution System] --> B[Portfolio Governance System]
+B --> C[Product Delivery System]
+C --> D[Customer Outcomes]
+
+E[Decision Intelligence System] --> B
+E --> C
+
+D --> A
+C --> E
+B --> E
+```
+
+This feedback model illustrates how modern product organizations continuously refine strategy, governance, and delivery through portfolio learning, execution visibility, and outcome measurement.
 
 ---
 
