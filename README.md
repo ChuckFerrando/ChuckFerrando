@@ -51,8 +51,6 @@ This architecture illustrates how modern product organizations translate enterpr
 
 ## System Repositories
 
-## System Repositories
-
 ### Strategy Execution System
 Framework for translating enterprise strategy into strategic initiatives, investment themes, and portfolio demand.
 
