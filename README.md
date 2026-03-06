@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/ChuckFerrando/ChuckFerrando)
 
-Product leadership architect designing the operating systems used to run modern product organizations — from strategy execution through portfolio governance and product delivery, augmented by decision intelligence.
+Product leadership architect designing operating systems for strategy execution, portfolio governance, and product delivery in complex technology organizations.
 
 ---
 
