@@ -51,29 +51,41 @@ This architecture illustrates how modern product organizations translate enterpr
 
 ## System Repositories
 
-### Portfolio Governance System
+## System Repositories
 
-Operating system for evaluating investment proposals, allocating capital, assessing delivery risk, and maintaining portfolio visibility across the product portfolio.
+### Strategy Execution System
+Framework for translating enterprise strategy into strategic initiatives, investment themes, and portfolio demand.
+
+[Strategy Execution System](https://github.com/ChuckFerrando/strategy-execution-system)
+
+### Portfolio Governance System
+Operating system for evaluating investment proposals, allocating capital, assessing delivery risk, and maintaining portfolio visibility.
 
 [Portfolio Governance System](https://github.com/ChuckFerrando/portfolio-governance-system)
 
 ### Product Delivery System
-
-Framework governing how funded initiatives are executed through product, engineering, and platform teams, translating portfolio decisions into coordinated delivery.
+Framework governing how funded initiatives are executed through product, engineering, and platform teams.
 
 [Product Delivery System](https://github.com/ChuckFerrando/product-delivery-system)
 
 ### Decision Intelligence System
-
 Analytical layer supporting governance and delivery through portfolio metrics, scenario modeling, risk visibility, and AI-assisted decision preparation.
 
 [Decision Intelligence System](https://github.com/ChuckFerrando/decision-intelligence-system)
 
 ### Product Leadership Systems Documentation
-
-Architecture index and documentation portal for the Product Leadership Systems Architecture, providing a structured entry point into the portfolio.
+Architecture portal and documentation index for the Product Leadership Systems Architecture.
 
 [Product Leadership Systems Documentation](https://github.com/ChuckFerrando/product-leadership-systems)
+
+---
+
+## Primary Entry Point
+
+The recommended starting point for this portfolio is the architecture portal, which provides a structured overview of the Product Leadership Systems Architecture.
+
+- **Architecture Portal:** [Product Leadership Systems](https://chuckferrando.github.io/product-leadership-systems/)
+- **Source Repository:** [product-leadership-systems](https://github.com/ChuckFerrando/product-leadership-systems)
 
 ---
 
@@ -154,18 +166,6 @@ Relevant roles include:
 This repository is intended as a professional architecture and operating model portfolio artifact.
 
 Unless otherwise noted, the materials in this portfolio are shared for professional reference and discussion.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
