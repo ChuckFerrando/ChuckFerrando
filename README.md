@@ -9,9 +9,12 @@ Product leadership architect designing the operating systems used to run modern 
 
 ## Product Leadership Systems Architecture (PLSA)
 
-This GitHub portfolio documents a set of integrated operating systems used to run a modern product organization.
+This repository documents a set of integrated operating systems used to run a modern product organization.
 
-It is designed to read like internal operating documentation from a large technology organization — and be understandable to a recruiter or hiring manager within **10 seconds**.
+The artifacts are presented as architecture documentation describing how strategy, portfolio governance, product delivery, and decision intelligence operate as an integrated leadership system.
+
+The frameworks described here reflect common operating mechanisms used to manage strategy execution, portfolio governance, and product delivery in complex technology organizations.
+
 
 **Documentation portal (architecture index):**  
 https://chuckferrando.github.io/product-leadership-systems
