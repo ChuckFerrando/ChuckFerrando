@@ -9,7 +9,7 @@ Product leadership architect designing the operating systems used to run modern 
 
 ## Product Leadership Systems Architecture (PLSA)
 
-This repository documents a set of integrated operating systems used to run a modern product organization.
+This repository documents a set of operating systems used to run modern product organizations — connecting strategy execution, portfolio governance, product delivery, and decision intelligence into an integrated leadership architecture.
 
 The artifacts are presented as architecture documentation describing how strategy, portfolio governance, product delivery, and decision intelligence operate as an integrated leadership system.
 
