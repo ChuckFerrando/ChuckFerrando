@@ -61,21 +61,38 @@ flowchart TB
 
 ---
 
-## Seven-Pillar Architecture
+## Seven-Pillar Knowledge System Architecture
 
-The Product Leadership Knowledge System is organized as a seven-pillar architecture.
+The Product Leadership Knowledge System is organized as a layered architecture built on top of the Product Leadership Systems Architecture.
 
 ```mermaid
 flowchart TB
 
+subgraph Core["Core Architecture"]
 A["Product Leadership Systems Architecture"]
+end
 
-A --> B["Innovation → Enterprise Scaling"]
-A --> C["AI Product Management"]
-A --> D["AI Model Library"]
-A --> E["AI Prompt Library"]
-A --> F["Product Leadership Playbooks"]
-A --> G["Case Studies"]
+subgraph Knowledge["Knowledge System Layer"]
+B["Product Leadership Knowledge System"]
+end
+
+subgraph Pillars["Capability Pillars"]
+C["Innovation → Enterprise Scaling"]
+D["AI Product Management"]
+E["AI Model Library"]
+F["AI Prompt Library"]
+G["Product Leadership Playbooks"]
+H["Product Leadership Case Studies"]
+end
+
+A --> B
+
+B --> C
+B --> D
+B --> E
+B --> F
+B --> G
+B --> H
 ```
 
 ---
