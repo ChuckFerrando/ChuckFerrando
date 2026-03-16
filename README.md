@@ -17,7 +17,7 @@ The portfolio is designed to demonstrate how product organizations can be run as
 
 --- 
 
-# What This Portfolio Represents 
+# What This Portfolio Represents
 
 The **Product Leadership Operating System (PLOS)** is an executive architecture portfolio that explains how organizations connect:
 
@@ -92,7 +92,7 @@ These first three pillars materially sharpened the overall structure of PLOS, in
 
 A broader refresh is planned after the remaining pillars are further completed.
 
-# Important Terminology 
+# Important Terminology
 
 Two terms matter throughout this portfolio:
 
@@ -117,7 +117,7 @@ At the highest level, the portfolio explains how organizations move through the 
 
 --- 
 
-# Repository Direction 
+# Repository Direction
 
 Each repository in this portfolio is intended to function as part of a broader architecture library rather than as a standalone personal project.
 
